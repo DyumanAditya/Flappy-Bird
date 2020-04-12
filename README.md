@@ -27,3 +27,12 @@ Run this line to install tkinter on your system
 ```bash
 $ sudo apt-get install python3-tk
 ```
+
+## Clone and Run
+```bash
+$ git clone https://github.com/DyumanAditya/Flappy-Bird.git
+$ cd Flappy-Bird
+$ python3 FlappyBird.py
+```
+And enjoy :)
+
